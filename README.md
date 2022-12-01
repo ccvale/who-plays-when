@@ -14,4 +14,4 @@
 
 ## Future Plans
 
-1. Better way for users to run this on their own
+1. Better way for someone else to run this on their own if they wanted to
